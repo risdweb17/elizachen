@@ -1,25 +1,35 @@
-img{
+img.flowers{
 	width: 50%;
-	padding-left: 100px;
+	padding-left: 50px;
 
 }
+
 body{
 	font-family: "Frank Ruhl Libre", sans-serif;
-	margin-left: 50px;
+	margin-left: 50%;
 	margin-top: 100px;
+	letter-spacing: 0.01em;
 }
-p{
-	padding-left: 50px;
-}
+
 li{
-	padding-left: 52px;
+	padding-left: 28%;
 }
+
+h2{
+	color:red;
+	text-transform: uppercase; 
+	font-size: 11px;
+	font-weight: bold;
+}
+
 .education{
 	padding-left: 100px;
 }
+
 .skills{
 	padding-left: 200px;
 }
+
 .projects{
 	padding-left: 550px;
 }
