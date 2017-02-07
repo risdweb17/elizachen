@@ -1,0 +1,47 @@
+.title{
+	font-size: 50px;
+	font-family: 'Padauk', sans-serif;
+	color: #2eb82e;
+	padding-top: 40px;
+	padding-left: 40px;
+}
+
+.instructions{
+	font-family: 'Padauk', sans-serif;
+	padding-left: 40px;
+	padding-bottom: 30px;
+}
+	
+
+.left{
+	font-size: 25px;
+	font-family: 'Padauk', sans-serif;
+	float:left;
+	display: inline-block;
+	padding-left: 40px;
+	}
+
+.right{
+	font-size: 25px;
+	font-family: 'Padauk', sans-serif;
+	float: left;
+	display: inline-block;
+	padding-left: 150px;
+	}
+
+p:hover{
+	background-color: #d9ffb3 ;
+	}
+
+img{
+	height: 40px;
+	-webkit-animation:spin 2s linear infinite;
+    -moz-animation:spin 2s linear infinite;
+    animation:spin 2s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+}
+
+}

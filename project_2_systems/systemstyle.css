@@ -1,16 +1,16 @@
 .topbar{
     margin: 0px;
-    max-height: 50%;
+    width: 100% vw;
     max-width: 50%;
 }
-#lower {
+#lower{
     width: 900px;
 }
 
-.image {
+.image{
     float: left;
     padding: 15px;
-}
+
 .image:hover{
 	filter:blur(20px);
 }
