@@ -1,0 +1,33 @@
+body{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 35px;
+	background-color: 
+
+}
+a:link{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color: pink;
+	text-decoration: underline;
+}
+a:visited{
+	color: red;
+	text-decoration: none;
+}
+.info{
+	margin-top: 2em;
+	margin-left: 2em;
+}
+.exercises{
+	float: left; width: 200px;
+	margin-left: 3em;
+}
+.projects{
+	float: left; width: 200px;
+}
+.misc{
+	float: left; width: 200px;
+}
+

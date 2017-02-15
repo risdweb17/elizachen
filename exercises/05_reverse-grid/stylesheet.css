@@ -1,0 +1,13 @@
+.row
+{
+    display: table;
+    width: 100%;
+    height: 50%;
+    table-layout: fixed; 
+    border-spacing: 10px; 
+}
+.column
+{
+    display: table-cell;
+    background-color: red;
+}
